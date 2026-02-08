@@ -1,0 +1,595 @@
+[
+    {
+        "section": "section-42",
+        "desc": "Any police officer may issue a summons requiring a person to appear before him if he believes that person has committed an offence. The person shall comply.",
+        "simpleDesc": "Police can send you a written notice (summons) asking you to come to the police station or court. You must go.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "police sent me notice",
+            "summons to police station",
+            "asked to appear before officer",
+            "court notice received",
+            "why did police call me",
+            "notice of appearance",
+            "got summons in mail"
+        ]
+    },
+    {
+        "section": "section-43",
+        "desc": "Any private person may arrest or cause to be arrested any person who in his presence commits a non-bailable and cognizable offence, or any proclaimed offender.",
+        "simpleDesc": "A normal citizen (not a police officer) can arrest someone if they see them committing a serious crime (like murder) or if the person is a wanted criminal.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "caught a thief myself",
+            "i arrested him",
+            "citizen arrest",
+            "i stopped a criminal",
+            "handcuffed by civilian",
+            "caught red handed",
+            "private person making arrest"
+        ]
+    },
+    {
+        "section": "section-50A",
+        "desc": "When a person is arrested, the police officer making the arrest shall immediately give information regarding such arrest to one of his friends or relatives. They shall also inform about the place where he is being held.",
+        "simpleDesc": "Police must immediately call your friend or relative to tell them you have been arrested and where you are being kept.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "family not informed of arrest",
+            "police didn't call my parents",
+            "informing designated person",
+            "friend not told about arrest",
+            "arrest information duty",
+            "family doesn't know where i am"
+        ]
+    },
+    {
+        "section": "section-53",
+        "desc": "When a person is arrested, the police officer may get his medical examination done by a registered medical practitioner to get evidence of the offence.",
+        "simpleDesc": "Police can take the arrested person to a government doctor for a check-up to look for injuries or evidence of the crime.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "taken for medical test",
+            "doctor checked me in jail",
+            "medical examination of accused",
+            "forced for medical test",
+            "blood sample taken by police",
+            "injury report"
+        ]
+    },
+    {
+        "section": "section-54",
+        "desc": "When a person is arrested, he may request a medical examination if he believes it will disprove the commission of an offence or prove that the offence was committed against him.",
+        "simpleDesc": "If you are arrested and want to prove you didn't do it or that *you* were hurt, you can ask the police or magistrate for a medical check-up.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "i want medical exam",
+            "prove i am innocent",
+            "my injuries not recorded",
+            "request for doctor checkup",
+            "self inflicted injury proof",
+            "police beating proof"
+        ]
+    },
+    {
+        "section": "section-91",
+        "desc": "Any Court or Officer in charge of a police station may issue a summons to any person requiring them to produce a document or other thing necessary for an investigation.",
+        "simpleDesc": "A court or police can send you a notice demanding that you bring specific documents or evidence they need for a case.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "court asked for documents",
+            "summons for evidence",
+            "police want my file",
+            "produce documents",
+            "summons to appear with paper",
+            "court notice for records"
+        ]
+    },
+    {
+        "section": "section-107",
+        "desc": "A Magistrate can demand a person to execute a bond (with or without sureties) for keeping the peace for good behaviour for up to 1 year.",
+        "simpleDesc": "If the police feel you might cause trouble or fight, the Magistrate can force you to sign a bond promising to behave well for one year.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "bind over for peace",
+            "security for good behaviour",
+            "magistrate asked for bond",
+            "prevent me from fighting",
+            "promise to keep peace",
+            "security bond"
+        ]
+    },
+    {
+        "section": "section-125",
+        "desc": "If a husband neglects to maintain his wife, or if a father/mother neglects to maintain a child, the Magistrate can order them to pay a monthly allowance.",
+        "simpleDesc": "A wife, child, or old parents can ask the court to force the husband/son to pay them money for their living expenses (maintenance).",
+        "punishment": "None (Civil)",
+        "keywords": [
+            "wife wants maintenance",
+            "husband not giving money",
+            "file for monthly allowance",
+            "parents asking for maintenance",
+            "child support case",
+            "section 125 case",
+            "family maintenance"
+        ]
+    },
+    {
+        "section": "section-144",
+        "desc": "A District Magistrate or Sub-Divisional Magistrate can issue an order prohibiting an assembly of 5 or more persons to prevent danger to human life or property (Curfew).",
+        "simpleDesc": "The government can ban gatherings of 5 or more people in an area to prevent riots or trouble. This is often called a 'Curfew'.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "section 144 imposed",
+            "curfew in area",
+            "cannot gather",
+            "prohibition of assembly",
+            "ban on gathering",
+            "riot prevention",
+            "cannot go out"
+        ]
+    },
+    {
+        "section": "section-151",
+        "desc": "A police officer may arrest any person, without orders from a Magistrate and without a warrant, to prevent him from committing a cognizable offence.",
+        "simpleDesc": "Police can arrest you without a warrant not because you *committed* a crime, but to *prevent* you from doing something they think you might do (Preventive Custody).",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "preventive arrest",
+            "arrested to prevent crime",
+            "police arrested for precaution",
+            "arrested to stop fight",
+            "suspicion of future crime",
+            "preventive custody"
+        ]
+    },
+    {
+        "section": "section-154",
+        "desc": "Every information relating to the commission of a cognizable offence shall be reduced to writing by the police officer and signed by the informant (FIR).",
+        "simpleDesc": "This is for filing an FIR (First Information Report). Police must write down your complaint about a serious crime and make you sign it.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "file an FIR",
+            "police refused to register FIR",
+            "first information report",
+            "complaint refused",
+            "how to file zero FIR",
+            "station master not taking complaint",
+            "registering a case"
+        ]
+    },
+    {
+        "section": "section-155",
+        "desc": "No police officer shall investigate a non-cognizable case without the order of a Magistrate. Information regarding non-cognizable offences shall be entered in a book.",
+        "simpleDesc": "For smaller crimes (non-cognizable), police cannot investigate without permission from a Magistrate. They just write a daily diary entry.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "non-cognizable complaint",
+            "nc entry",
+            "police refused to investigate",
+            "minor case not registered",
+            "daily diary entry",
+            "magistrate permission needed"
+        ]
+    },
+    {
+        "section": "section-160",
+        "desc": "Police officers can orally examine any person who is acquainted with the facts and circumstances of the case to understand the case better.",
+        "simpleDesc": "Police can ask anyone who knows about the case (witnesses or related people) questions to gather information.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "police asked me questions",
+            "called to station for info",
+            "gave information to police",
+            "inquiry by police",
+            "witness interrogation"
+        ]
+    },
+    {
+        "section": "section-161",
+        "desc": "Any police officer making an investigation may examine orally any person supposed to be acquainted with the facts. Such person is bound to answer truly.",
+        "simpleDesc": "If you are a witness or know something, police can question you, and you must answer truthfully.",
+        "punishment": "Punishment for false statement (IPC 191/193)",
+        "keywords": [
+            "police took my statement",
+            "giving statement to police",
+            "witness statement to cop",
+            "investigation statement",
+            "questioned by police",
+            "interrogation"
+        ]
+    },
+    {
+        "section": "section-164",
+        "desc": "A Magistrate may record a statement or confession made to him during an investigation. This is used to ensure the statement is voluntary.",
+        "simpleDesc": "A Magistrate (not police) can record a confession or statement. This is considered valid proof if done voluntarily.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "confessing before magistrate",
+            "voluntary confession",
+            "recorded by magistrate",
+            "164 statement",
+            "judicial confession"
+        ]
+    },
+    {
+        "section": "section-167",
+        "desc": "If investigation cannot be completed in 24 hours, police shall forward the accused to a Magistrate. The Magistrate may authorize detention in police custody (remand) up to 15 days total.",
+        "simpleDesc": "If police need more time to investigate, they take you to a Magistrate. The Magistrate can let police keep you for questioning for up to 15 days.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "police remand",
+            "sent to jail custody",
+            "magistrate extended custody",
+            "15 days police remand",
+            "interrogation in custody",
+            "investigation not complete"
+        ]
+    },
+    {
+        "section": "section-173",
+        "desc": "On completion of investigation, the police officer shall forward a report to the Magistrate stating whether evidence is sufficient to put the accused on trial (Charge Sheet).",
+        "simpleDesc": "This is the 'Charge Sheet'. After finishing the investigation, police file a report in court saying if there is enough evidence to charge the accused.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "charge sheet filed",
+            "final report",
+            "investigation completed",
+            "police filed report in court",
+            "evidence against accused",
+            "chargesheet not filed"
+        ]
+    },
+    {
+        "section": "section-177",
+        "desc": "Every offence shall ordinarily be inquired into and tried by a Court within whose local jurisdiction it was committed.",
+        "simpleDesc": "A case must be filed in the court that handles the area where the crime actually took place.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "where to file case",
+            "jurisdiction of court",
+            "crime happened in which area",
+            "local jurisdiction",
+            "place of trial"
+        ]
+    },
+    {
+        "section": "section-200",
+        "desc": "A Magistrate taking cognizance of an offence upon complaint shall examine the complainant and the witnesses upon oath to see if there is a ground to proceed.",
+        "simpleDesc": "If you go directly to a Magistrate (not police) to file a complaint, the Magistrate will question you and your witnesses under oath before starting the case.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "file complaint in court",
+            "private complaint",
+            "no FIR direct court case",
+            "examining complainant",
+            "sworn statement",
+            "magistrate complaint"
+        ]
+    },
+    {
+        "section": "section-202",
+        "desc": "A Magistrate may postpone the issue of process (warrant/summons) to first inquire into the case himself or direct a police officer to inquire.",
+        "simpleDesc": "After receiving a private complaint, the Magistrate might delay the warrant/summons to first check if the complaint is actually true.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "preliminary inquiry",
+            "court check before warrant",
+            "inquiry into complaint",
+            "magistrate investigating",
+            "delay in warrant"
+        ]
+    },
+    {
+        "section": "section-239",
+        "desc": "If the Judge finds there is not sufficient ground for proceeding against the accused, he shall discharge the accused.",
+        "simpleDesc": "If the court thinks there is no evidence against the accused, they can cancel (discharge) the case without a full trial.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "discharged from case",
+            "case dismissed early",
+            "no evidence for charge",
+            "no prima facie case",
+            "acquitted at charge stage"
+        ]
+    },
+    {
+        "section": "section-240",
+        "desc": "When the Judge is satisfied that there is sufficient ground for proceeding, he shall frame a charge in writing against the accused.",
+        "simpleDesc": "If there is evidence, the court writes down the specific formal accusations (Charges) against the accused to start the trial.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "framing of charge",
+            "charges read out",
+            "court framed charges",
+            "formal accusation",
+            "specific charge filed"
+        ]
+    },
+    {
+        "section": "section-248",
+        "desc": "In a summons case, if the accused pleads not guilty and the Magistrate does not find him guilty, he shall be acquitted.",
+        "simpleDesc": "In a minor case, if the accused says 'Not Guilty' and the judge agrees that he didn't do it, the court acquits him.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "acquitted in summons case",
+            "judge found not guilty",
+            "case dismissed",
+            "summons trial result",
+            "not guilty verdict"
+        ]
+    },
+    {
+        "section": "section-251",
+        "desc": "In a summons-case, when the accused appears, the Magistrate states the particulars and asks if he pleads guilty or has any defence.",
+        "simpleDesc": "In a minor case, the court tells the accused the charges and asks: 'Are you guilty?'",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "summons case",
+            "court asked guilty or not",
+            "minor offence trial",
+            "did not accept guilt",
+            "pleaded not guilty"
+        ]
+    },
+    {
+        "section": "section-259",
+        "desc": "If in a summons case the accused pleads guilty, the Magistrate shall convict him.",
+        "simpleDesc": "If the accused admits 'Yes I did it' in a minor case, the court convicts them immediately.",
+        "punishment": "Depends on the offence",
+        "keywords": [
+            "pleaded guilty",
+            "admitted crime",
+            "convicted on plea",
+            "accepted guilt",
+            "confessed in court"
+        ]
+    },
+    {
+        "section": "section-265A",
+        "desc": "The accused may file an application for plea bargaining in the Court. It allows the victim to get compensation and the accused to get a reduced sentence.",
+        "simpleDesc": "Plea bargaining allows the accused to admit guilt in exchange for a lesser punishment and to save the court's time.",
+        "punishment": "Reduced Sentence",
+        "keywords": [
+            "plea bargaining",
+            "compromise settlement",
+            "reduce sentence",
+            "admit guilt for lesser punishment",
+            "end case quickly",
+            "mutual settlement"
+        ]
+    },
+    {
+        "section": "section-309",
+        "desc": "If the Judge sees that the presence of the accused is not necessary for the inquiry, trial, or other proceeding, he may proceed in his absence.",
+        "simpleDesc": "The court can continue hearing even if the accused doesn't show up, provided their presence isn't strictly needed right then.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "court hearing without me",
+            "hearing in absence",
+            "date postponed",
+            "adjournment",
+            "hearing extended",
+            "court date changed"
+        ]
+    },
+    {
+        "section": "section-311",
+        "desc": "The Court may, at any stage, summon any person as a witness, or recall and re-examine any person already examined.",
+        "simpleDesc": "The court can call anyone to testify, or call back a witness who already spoke, to ask more questions or clear doubts.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "recall witness",
+            "call new witness",
+            "re-examine witness",
+            "court calling person",
+            "additional evidence",
+            "reopening witness cross"
+        ]
+    },
+    {
+        "section": "section-313",
+        "desc": "The Court shall, after the prosecution witnesses are done, question the accused personally to explain the circumstances appearing against him.",
+        "simpleDesc": "After the prosecution finishes, the court asks the accused questions to give them a chance to explain their side of the story.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "court asked me questions",
+            "given chance to explain",
+            "evidence against me",
+            "explanation under section 313",
+            "my statement in court"
+        ]
+    },
+    {
+        "section": "section-353",
+        "desc": "When the Court passes a sentence of death, it shall cause the sentence to be read in open court to the accused.",
+        "simpleDesc": "If someone is sentenced to death, the court must read out the death sentence in open court.",
+        "punishment": "Death Sentence",
+        "keywords": [
+            "death sentence read out",
+            "capital punishment order",
+            "court ordered hanging",
+            "death verdict",
+            "open court sentence"
+        ]
+    },
+    {
+        "section": "section-354",
+        "desc": "Every judgment shall be written, dated and signed by the Judge. It shall contain points for determination and reasons for the decision.",
+        "simpleDesc": "The final court decision (Judgment) must be written down and signed, explaining exactly why the court decided what it did.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "judgment pronounced",
+            "court order copy",
+            "verdict delivered",
+            "written judgment",
+            "decision of court",
+            "final order"
+        ]
+    },
+    {
+        "section": "section-362",
+        "desc": "No Judge or Magistrate shall, after passing judgment, alter or review it, except to correct a clerical error.",
+        "simpleDesc": "Once a judgment is passed, the judge cannot change it, unless it's a small spelling mistake or technical error.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "court cannot change judgment",
+            "altering final order",
+            "reviewing judgment",
+            "reopening decided case",
+            "correction in judgment"
+        ]
+    },
+    {
+        "section": "section-366",
+        "desc": "When a Court of Session passes a sentence of death, it shall submit the proceedings to the High Court for confirmation.",
+        "simpleDesc": "If a Session Court sentences someone to death, the High Court must approve (confirm) it before it can be carried out.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "death sentence confirmation",
+            "high court reference",
+            "approval needed",
+            "death sentence sent to high court",
+            "confirmation case"
+        ]
+    },
+    {
+        "section": "section-374",
+        "desc": "Any person convicted may appeal to the High Court or Court of Session against the conviction and sentence.",
+        "simpleDesc": "If you are found guilty and punished, you can challenge the decision in a higher court (Appeal).",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "appeal against conviction",
+            "go to high court",
+            "fight judgment",
+            "sentence appeal",
+            "appeal in sessions court",
+            "challenge conviction"
+        ]
+    },
+    {
+        "section": "section-378",
+        "desc": "The State Government may direct the Public Prosecutor to appeal to the High Court against an order of acquittal if the lower court let the accused go free wrongly.",
+        "simpleDesc": "If a court lets an accused go free, the Government can appeal that decision in the High Court if they think it was wrong.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "state appealed my acquittal",
+            "i was acquitted but case reopened",
+            "government appeal",
+            "appeal against acquittal",
+            "prosecution filed appeal"
+        ]
+    },
+    {
+        "section": "section-384",
+        "desc": "If the Court finds an accused is innocent, it may order compensation to the accused for the loss or injury suffered due to the accusation.",
+        "simpleDesc": "If the court finds someone innocent after they were wrongly accused, the court can order compensation (money) for the person who was accused.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "compensation for false case",
+            "money for false accusation",
+            "innocent got compensation",
+            "victim of false case",
+            "payment for loss of reputation"
+        ]
+    },
+    {
+        "section": "section-397",
+        "desc": "The High Court or Sessions Court may examine the case record to check correctness, legality, or propriety of any finding, sentence, or order (Revision).",
+        "simpleDesc": "The High Court can look at the files of a case to check if a lower court made a mistake (Revision).",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "file revision petition",
+            "review order",
+            "challenge lower court order",
+            "session court revision",
+            "high court revision",
+            "incorrect order"
+        ]
+    },
+    {
+        "section": "section-401",
+        "desc": "The High Court may direct that any particular case or appeal be transferred from a subordinate court to another.",
+        "simpleDesc": "The High Court can order a case to be moved from one court to another if needed.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "case transferred",
+            "court changed",
+            "transfer of case",
+            "high court order to move",
+            "new judge assigned",
+            "change of venue"
+        ]
+    },
+    {
+        "section": "section-436",
+        "desc": "When any person is arrested for a bailable offence, they have the right to be released on bail. The police or court must release them if they sign a bond.",
+        "simpleDesc": "For less serious crimes, you have the absolute right to be released on bail immediately upon signing a bond.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "bailable offence bail",
+            "released on bail",
+            "simple bail",
+            "right to bail",
+            "police station bail",
+            "standard bail"
+        ]
+    },
+    {
+        "section": "section-437",
+        "desc": "When a person is accused of a non-bailable offence, they may be released on bail by the Magistrate, but it is not automatic.",
+        "simpleDesc": "For serious crimes, bail is not automatic. You must apply to the Magistrate, and they decide based on the evidence.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "anticipatory bail",
+            "bail in serious offence",
+            "court granted bail",
+            "conditions for bail",
+            "non bailable offence",
+            "magistrate bail order",
+            "bail rejected"
+        ]
+    },
+    {
+        "section": "section-438",
+        "desc": "The High Court or Court of Session may grant 'Anticipatory Bail' if a person has reason to believe they might be arrested for a non-bailable offence.",
+        "simpleDesc": "If you think you are going to be arrested for a serious crime, you can apply to the High Court or Sessions Court for protection (Anticipatory Bail).",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "anticipatory bail",
+            "fear of arrest",
+            "bail before arrest",
+            "high court anticipatory bail",
+            "arrest fear",
+            "protection from arrest"
+        ]
+    },
+    {
+        "section": "section-439",
+        "desc": "The High Court or Court of Session has special power to grant bail in serious cases where normally bail would be denied, and can also cancel bail.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "high court bail",
+            "sessions court bail",
+            "cancel bail",
+            "enhance bail conditions",
+            "special bail powers",
+            "bail cancellation"
+        ]
+    },
+    {
+        "section": "section-482",
+        "desc": "Nothing in this Code limits the inherent powers of the High Court to make necessary orders to prevent abuse of the process of any Court (e.g., quashing FIRs).",
+        "simpleDesc": "The High Court has special power to cancel (quash) an FIR or stop a case if it is fake, malicious, or an abuse of the law.",
+        "punishment": "None (Procedural)",
+        "keywords": [
+            "quash FIR",
+            "high court quash case",
+            "inherent powers",
+            "abuse of process",
+            "cancel fake case",
+            "close FIR before trial",
+            "dismiss petition"
+        ]
+    }
+]
